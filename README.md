@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning web development specifically front-end developer 
 - 💞️ I’m looking to collaborate on projects with anyone 
-- 📫 How to reach me on linkedin/MiguelCervantes email: cervantesmiguel1017@gmail.com
+- 📫 How to reach me on linkedin/MiguelCervantes email: cervantes.miguel1017@icloud.com
 - 😄 Pronouns:he/him
 - ⚡ Fun fact: im a night owl 
 
